@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 typography_spectrum: 0.5225564
 color:
   saturation: 0.5231829
   brandStrength: 0.297619
-  lightness: 0.2813283
+  rhythmicContrast: 0.8865915
   brandColors:
     - '#FFFFFF'
     - '#323136'
     - '#6E5640'
     - '#00606F'
     - '#2C8F9A'
-  rhythmicContrast: 0.8865915
-layout_spectrum: 0.2098998
+  lightness: 0.2813283
+layout_spectrum: 0.79198
 name: Danny.Zelener
