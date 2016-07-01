@@ -1,0 +1,14 @@
+layout_spectrum: 0.2098998
+color:
+  saturation: 0.3878446
+  lightness: 0.8446761
+  brandStrength: 1
+  brandColors:
+    - '#FFFFFF'
+    - '#090805'
+    - '#636061'
+    - '#6CA8CB'
+    - '#BED3E6'
+  rhythmicContrast: 0.7606516
+typography_spectrum: 0.5225564
+name: Danny.Zelener
