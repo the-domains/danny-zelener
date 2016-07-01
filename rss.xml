@@ -4,7 +4,7 @@
         <description><![CDATA[Danny.Zelener]]></description>
         <link>https://thegrid.ai/danny-zelener/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Jul 2016 04:07:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2016 04:17:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/danny-zelener/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Przel projekt. Detail of Fridha]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b7096f2a-e603-4844-8daa-f1fabe9d60e3.jpg</link>
             <guid isPermaLink="false">9ffcaa35-a6d0-4945-9894-a066e8ec8e9f</guid>
             <pubDate>Fri, 01 Jul 2016 03:56:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pictorical series. ]]></title>
+            <description><![CDATA[<article><h1>Pictorical series. </h1><p>Este espacio es el que rompe con paradigmas de anclaje en conceptos ya preexistentes. como corolario, la paleta de color es vibrante y contrastada en juegos de luces y sombras como referentes de la escuela holandesa </p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/7e1f7c4f03bddc9327b2a43548a3095d/croprotate.jpg?cropheight=1462&cropwidth=2048&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2Fd8f0481e-7de5-4a6a-94a4-d680cedddbbd.jpg&x=0&y=42"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d8f0481e-7de5-4a6a-94a4-d680cedddbbd.jpg</link>
+            <guid isPermaLink="false">f734a9cb-ca8d-43a4-95b5-b2cb2a696a73</guid>
+            <pubDate>Fri, 01 Jul 2016 04:17:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
