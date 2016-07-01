@@ -13,14 +13,14 @@ collections:
 typography_spectrum: 0.5225564
 color:
   saturation: 0.5231829
-  brandStrength: 0.297619
-  rhythmicContrast: 0.8865915
+  brandStrength: 0.4824561
+  lightness: 0.8421053
   brandColors:
     - '#FFFFFF'
     - '#323136'
     - '#6E5640'
     - '#00606F'
     - '#2C8F9A'
-  lightness: 0.2813283
+  rhythmicContrast: 1
 layout_spectrum: 0.79198
 name: Danny.Zelener
